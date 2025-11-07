@@ -750,5 +750,13 @@ night_color = Color(0.0862745, 0.188235, 0.380392, 1)
 day_start = SubResource("Resource_bah7m")
 night_start = SubResource("Resource_fv4w7")
 
+[node name="helooAlexismwamwa" type="Label" parent="."]
+offset_left = 873.0
+offset_top = 1075.0
+offset_right = 1148.0
+offset_bottom = 1124.0
+text = "hello mwheheh mwamwmawmawa
+"
+
 [connection signal="updated" from="TimeSystem" to="CharacterBody2D/Camera2D/TimeGui" method="_on_time_system_updated"]
 [connection signal="updated" from="TimeSystem" to="DirectionalLight2D" method="update"]
