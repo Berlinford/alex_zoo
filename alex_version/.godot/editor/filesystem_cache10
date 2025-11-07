@@ -1,0 +1,45 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1762534468
+directional_light_2d.gd::GDScript::2122143287728425936::1762534365::0::1::::<>DirectionalLight2D<><>0<>0<><>::
+icon.svg::CompressedTexture2D::2883486900910563466::1762534365::1762534469::1::::<><><>0<>0<>0009a40bf24d12f68479b0c3b9ed2d40<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Player.tscn::PackedScene::1040464345803294246::1762534365::0::1::::<><><>0<>0<><>::uid://bu5bjiwbqf5f::::res://assets/PlayerSprite/PlayerSprite.png
+README.md::TextFile::-1::1762534365::0::1::::<><><>0<>0<><>::
+World.tscn::PackedScene::258036923466243594::1762534365::0::1::::<><><>0<>0<><>::uid://46k74qh7vj8w::::res://assets/brickRoadSprite/brickRoadSprite.png<>uid://o3akb5u6m0dm::::res://Player.tscn<>uid://dxe3sg0dkan3h::::res://assets/roadSprites/roadSprites.png<>uid://b0y7qekmyyu8h::::res://time alex/time_system.gd<>uid://3ry1lncgagxf::::res://time alex/time_gui.tscn<>uid://106j80wgajow::::res://time alex/date_time.gd<>uid://5h8niyvia7i7::::res://directional_light_2d.gd
+::res://assets/::1762534365
+::res://assets/brickRoadSprite/::1762534365
+brickRoadSprite.png::CompressedTexture2D::2100138039467085988::1762534365::1762534470::1::::<><><>0<>0<>82cb89cef5d7c0a72f19fbed773ee769<>res://.godot/imported/brickRoadSprite.png-0672365d76beb2c8b42ffa8900b34aa6.ctex::
+::res://assets/PlayerSprite/::1762534365
+PlayerSprite.png::CompressedTexture2D::113300180366264677::1762534365::1762534469::1::::<><><>0<>0<>c9f74663033d91ab9f4568f314a609c4<>res://.godot/imported/PlayerSprite.png-7eab623c6735563858c55bd5a7ad47fa.ctex::
+::res://assets/roadSprites/::1762534365
+roadSprites.png::CompressedTexture2D::8783595539767933107::1762534365::1762534469::1::::<><><>0<>0<>02527b84217bc7b5426a9ce8b03be3c4<>res://.godot/imported/roadSprites.png-bd0249df7c468a97c11de13926a2aa4f.ctex::
+::res://assets/TrailSprites/::1762534365
+TrailSprites.png::CompressedTexture2D::5685320679373212627::1762534365::1762534469::1::::<><><>0<>0<>8742fdd8830af7d43f3602992dcf43d0<>res://.godot/imported/TrailSprites.png-1cae153c8a457ed828b030ac45356d05.ctex::
+::res://time alex/::1762534365
+date_time.gd::GDScript::1878419450259514230::1762534365::0::1::::DateTime<>Resource<><>0<>0<><>::
+new_label_settings.tres::LabelSettings::9124167428938354293::1762534365::0::1::::<><><>0<>0<><>::uid://bldqkn7i0li6o::::res://time alex/time_assets_alex ( testing )/assets/Kenney Mini Square.ttf
+R.png::CompressedTexture2D::5504951403320572627::1762534365::1762534469::1::::<><><>0<>0<>aa69058c7e631bc06fd1c2c559abb86c<>res://.godot/imported/R.png-aa07b7bc6194c4dcabeb91d43fae4089.ctex::
+time_gui.gd::GDScript::2554508390694815585::1762534365::0::1::::<>Control<><>0<>0<><>::
+time_gui.tscn::PackedScene::2001886280090050955::1762534365::0::1::::<><><>0<>0<><>::uid://bcnom6iuex58p::::res://time alex/time_gui.gd<>uid://cmefufsn8n0dn::::res://time alex/time_assets_alex ( testing )/assets/ui_9patchrect.png<>uid://d282x7ns2c7un::::res://time alex/new_label_settings.tres<>uid://di5allh6nd8i6::::res://time alex/time_assets_alex ( testing )/istockphoto-1389520488-612x612-removebg-preview.png<>uid://ckov0luojk564::::res://time alex/R.png
+time_system.gd::GDScript::4192658583332059897::1762534365::0::1::::TimeSystem<>Node<><>0<>0<><>::
+::res://time alex/time_assets_alex ( testing )/::1762534365
+istockphoto-1389520488-612x612-removebg-preview.png::CompressedTexture2D::7782724366534818747::1762534365::1762534469::1::::<><><>0<>0<>d1499ac31064ad8088915eeb31f44639<>res://.godot/imported/istockphoto-1389520488-612x612-removebg-preview.png-2797b9a7493fb0f70fde4f25dc385a88.ctex::
+::res://time alex/time_assets_alex ( testing )/assets/::1762534365
+Kenney Mini Square.ttf::FontFile::3165681159431576628::1762534365::1762534469::1::::<><><>0<>0<>b5bfd64b2aa11a83a4dd4dc2668970ec<>res://.godot/imported/Kenney Mini Square.ttf-75d6658f32a96452c972307b24996d7f.fontdata::
+tiny_dungeon.png::CompressedTexture2D::491021881374862960::1762534365::1762534469::1::::<><><>0<>0<>315f9788debeed8dc692f2179db9382c<>res://.godot/imported/tiny_dungeon.png-c69e369e9f98cdfd2c21f134ae0d195e.ctex::
+tiny_town.png::CompressedTexture2D::5667344160800221495::1762534365::1762534469::1::::<><><>0<>0<>60cdfb2942f393044ed346732f57985e<>res://.godot/imported/tiny_town.png-61056dfed1d1249c5dd3e1b3ba9d90d3.ctex::
+ui_9patchrect.png::CompressedTexture2D::5623704593959289839::1762534365::1762534469::1::::<><><>0<>0<>ffa1d6766161c99587aec57e63119b92<>res://.godot/imported/ui_9patchrect.png-78c471055ade82970d4435f54444a3aa.ctex::
+::res://time alex/time_assets_alex ( testing )/assets/assets kenney-fonts/::1762534365
+License.txt::TextFile::-1::1762534365::0::1::::<><><>0<>0<><>::
+::res://time alex/time_assets_alex ( testing )/assets/assets kenney-fonts/Fonts/::1762534365
+Kenney Blocks.ttf::FontFile::7031984425636377414::1762534365::1762534469::1::::<><><>0<>0<>2871d84dec9f39bd7814011027e0a681<>res://.godot/imported/Kenney Blocks.ttf-ef881798df6307d579db99197926f79e.fontdata::
+Kenney Future Narrow.ttf::FontFile::8729728008399893244::1762534365::1762534469::1::::<><><>0<>0<>5a36f6480e3bbc75f15373eb01d5234f<>res://.godot/imported/Kenney Future Narrow.ttf-9be51dc3f9eb650f338a111e623b7115.fontdata::
+Kenney Future.ttf::FontFile::5984537157284974060::1762534365::1762534469::1::::<><><>0<>0<>92d8ec28e39f3042d6f1ed10abaf7dfb<>res://.godot/imported/Kenney Future.ttf-981e355543cb9d48eb4bb37b17852169.fontdata::
+Kenney High Square.ttf::FontFile::2727546891865780284::1762534365::1762534469::1::::<><><>0<>0<>ad8effabd3ffcbbb9cb375b4974150ad<>res://.godot/imported/Kenney High Square.ttf-f3a60da173eb88958ec0ba158d47b779.fontdata::
+Kenney High.ttf::FontFile::7485707830336536316::1762534365::1762534469::1::::<><><>0<>0<>f255b39992fc20f9c42a17bae97958c2<>res://.godot/imported/Kenney High.ttf-8af1891af04ec99119a523fd331f2b52.fontdata::
+Kenney Mini Square Mono.ttf::FontFile::6722808063990298629::1762534365::1762534469::1::::<><><>0<>0<>6d24ebd9e6b6621998485526409846ee<>res://.godot/imported/Kenney Mini Square Mono.ttf-5d0f0d6dd22ab5bd7a43ced583b8b12a.fontdata::
+Kenney Mini Square.ttf::FontFile::8504647461980147437::1762534365::1762534469::1::::<><><>0<>0<>94ad3b3d92809b6ba69af7fccc34981f<>res://.godot/imported/Kenney Mini Square.ttf-feca6efbc8f30e6a8d3809cad68e6c27.fontdata::
+Kenney Mini.ttf::FontFile::3697199004860971083::1762534365::1762534469::1::::<><><>0<>0<>1156dc6d5cbff7d967f1726796108a3c<>res://.godot/imported/Kenney Mini.ttf-dbf57cd903fbe4240ec2fb681b44b1aa.fontdata::
+Kenney Pixel Square.ttf::FontFile::2196517678600497415::1762534365::1762534469::1::::<><><>0<>0<>02e9c8c011b05213a94c37d5fd3f2249<>res://.godot/imported/Kenney Pixel Square.ttf-cc1ed53c9f0812f0b88a07a846dd908f.fontdata::
+Kenney Pixel.ttf::FontFile::8158765192180777825::1762534365::1762534469::1::::<><><>0<>0<>c761b7124d388934cf90106f4bd99027<>res://.godot/imported/Kenney Pixel.ttf-fdea7ef89304cace5c01a2c57863a7c3.fontdata::
+Kenney Rocket Square.ttf::FontFile::5987176219118315478::1762534365::1762534469::1::::<><><>0<>0<>697eaba7cd57307acd1e212e344db616<>res://.godot/imported/Kenney Rocket Square.ttf-73add609caf598311a058e88fe59053f.fontdata::
+Kenney Rocket.ttf::FontFile::81670517736426224::1762534365::1762534469::1::::<><><>0<>0<>ac7d5e321c16bc156c1bbd87f16b8ea1<>res://.godot/imported/Kenney Rocket.ttf-e33537c49eebc3409c3a625e068b39f3.fontdata::
